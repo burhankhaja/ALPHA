@@ -1,0 +1,3 @@
+- Be in touch with devs, discuss system invariants and build your audit plan upon it.
+- code4rena does this through discord, as soon as contest is listed, meet them in discord
+- in rare cases, you recon skills to find devs and discuss with them but i think best way would be c4 discord
