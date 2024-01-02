@@ -72,13 +72,13 @@ assert(lG == rU);
 - Remember, if You can't transfer your knowledge to where it can be used, you learning won't be efficient
 **- How to learn Directly ?**
      - Project Based Learning
-        - building as you learn
+        - build as you learn
      - Immersive Learning
-        - surrounding yourself with target environment in which skill is practiced, {kid's language learning analogy}
+        - surround yourself with target environment in which skill is practiced, {kid's language learning analogy}
      - Fligh simulator method
-        - simulating target environment for situations where transfer is not directly available
+        - simulate target environment for situations where transfer is not directly available
      - OverKill Approach
-        - Increasing challenge so that skill required is wholly contained {public speaking to subgroups before concerts analogy}
+        - Increase challenge so that skill required is wholly contained {public speaking to subgroups before concerts analogy}
      - **Remember Always learn straight from source**
 
 ## Principle_4, Drill:
@@ -87,7 +87,21 @@ assert(lG == rU);
 - Utilize **Direct-Then-Drill** Approach:
    - start learning too hard, identify pre-requisites/rate-determining areas and practice them
    - Benefit: You sort out what components are applicable and efficient from inefficients ones
-   - 
+
+## Principle_5, Retrieval:
+## Principle_6, Feedback:
+## Principle_7, Retention:
+
+
+
+
+
+
+
+
+
+## Princple_8, Intuition:
+## Principle_9, Experimentation:
 
 
 
