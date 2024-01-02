@@ -94,6 +94,11 @@ assert(lG == rU);
 - **This is also implicable in situations where you recall without even first knowing the solutions, benefits ?**
    - This sets the path and triggers in your mind that are going to become picky to easily understand the solutions while learning
 ## Principle_6, Feedback:
+- Am I getting honest feedback about my performance early on, or am I trying to dodge the punches and avoid criticism?
+-  Do I know what I’m learning well and what I’m not?
+-  Am I using feedback correctly, or am I overreacting to noisy data?
+-  Am i getting faster feedback loop
+-  Am i getting corrective feedback,(along with how to fix) rather than only informational feedback(only signals correctness/falseness)?
 ## Principle_7, Retention: 
 - Use SRS (spaced repetition System) or space relearning sessions not too far and not too close
 - you can even combine retrieval principle to acheive same effect in better but difficult way
