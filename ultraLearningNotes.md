@@ -89,6 +89,10 @@ assert(lG == rU);
    - Benefit: You sort out what components are applicable and efficient from inefficients ones
 
 ## Principle_5, Retrieval:
+- It states, after moderate gap since learning the concept, you should try to recall the concept again from memory rather than reviewing on resources
+   - i think this may become inefficient for me
+- **This is also implicable in situations where you recall without even first knowing the solutions, benefits ?**
+   - This sets the path and triggers in your mind that are going to become picky to easily understand the solutions while learning
 ## Principle_6, Feedback:
 ## Principle_7, Retention: 
 - Use SRS (spaced repetition System) or space relearning sessions not too far and not too close
