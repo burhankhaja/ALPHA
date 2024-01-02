@@ -29,10 +29,83 @@
        - **Goal here, is to not latch on first possible method/resource without thinking about alternatives-their strengths and weaknesses**
        - Follow Diminishing Returns/Marginal Benefit Calculation Principle
          ```c
-           if contribution(Research) > benefits(Action/learning) {
+           if (contribution(Research) > benefits(Action/learning)) {
                 Research More;
            } else {
                 Keep taking Action;
            }
          ```
-       - 
+## Principle_2, FOCUS:
+- **Problem 1: Procrastination**
+  - Detection:
+     - desire to do y rather than x
+     - difficulty of doing x
+  - Fix:
+     - 5min Rule: Just convince yourself to do x for 5 min, 80% probability is you will endup doing more
+     - Pomodoro: 25min(x) -- 5min(rest) => avoids burnout on doing difficult x
+- **Problem 2: Distractions**
+   - source
+      - environment (phone, games, playground...)
+      - Difficulty of Task
+         - **break x into x0, x1 to span attention for avoidance of boredom**
+      - Mind (bad emotional state, addicted....)
+- **Problem 3: Wrong Focus**
+   - Utilizing wrong kind of focus in wrong situations
+   - Fix:
+   ```c
+   // However, this rule isn't valid in all situations
+   if (task == complex) {
+       choose queit environment;
+   } else {
+       choose noisy environment;
+   }
+  ```
+
+## Principle_3, Directness:
+```c
+// learning of skill must be directly proportional to its real-life utility
+string lG = "learning";
+string rU = "real life utility";
+assert(lG == rU);
+```
+- **Frist thing to Ask is Where and How this knowledge that i am learning is going to manifest itself in real life situations**
+- Remember, if You can't transfer your knowledge to where it can be used, you learning won't be efficient
+**- How to learn Directly ?**
+     - Project Based Learning
+        - building as you learn
+     - Immersive Learning
+        - surrounding yourself with target environment in which skill is practiced, {kid's language learning analogy}
+     - Fligh simulator method
+        - simulating target environment for situations where transfer is not directly available
+     - OverKill Approach
+        - Increasing challenge so that skill required is wholly contained {public speaking to subgroups before concerts analogy}
+     - **Remember Always learn straight from source**
+
+## Principle_4, Drill:
+- **Identify and practice rate-determining steps- where one component of a complex skill determines your level of performance**
+- Attack your weak spots individually, because they make complex things difficult to learn
+- Utilize **Direct-Then-Drill** Approach:
+   - start learning too hard, identify pre-requisites/rate-determining areas and practice them
+   - Benefit: You sort out what components are applicable and efficient from inefficients ones
+   - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
