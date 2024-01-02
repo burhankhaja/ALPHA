@@ -90,18 +90,66 @@ assert(lG == rU);
 
 ## Principle_5, Retrieval:
 ## Principle_6, Feedback:
-## Principle_7, Retention:
-
-
-
-
-
-
-
-
-
+## Principle_7, Retention: 
+- Use SRS (spaced repetition System) or space relearning sessions not too far and not too close
+- you can even combine retrieval principle to acheive same effect in better but difficult way
+- **Proceduralization:**
+   - Humans remember procedural stuff easily over declarative knowledge
+      - typecasting vs mathematical_theorms
+   - Therefore, try to transfer declarative stuff into more procedural tasks
+- **Overlearning:**
+   - practice beyond perfect
+      - over_practice
+      - advance_practice
+         - **increase difficulty of x to x^2, so that x is learned itself**
+         - relatable to my difficulty bias theory, => we want to view something as difficult so changing difficulty order of x to x+1 to learn x easily
+   - Mnemonics- visualizations
 ## Princple_8, Intuition:
+- Cultivate Principles-first thinking
+   - while solving problems, reason about the core truths of problems rather than superficial charateristics
+   - build off examples that relate to what the target problem represents
+- Don't give up on hard problems easily
+   - try setting struggle timer before looking for answer
+      - this will do the job of Pre-retrieval, which aids in reaching solutions easily
+- Prove things to truly understand them
+   - **illusion of understanding is very often the barrier to deeper knowledge**
+   - Always start with concrete examples
+      - humans don't learn well in abstract form
+      - Transfer is necessary for us to learn
+      - This gives direct feedback, How?
+         - if you can't give example => you don't understand it well
+      - Don't fool yourself by having illusion of understanding
+   - Ask lots of dumb questions to assess whether you understand it deeply
+      - By asking seemingly obvious questions to yourself, the not-so-obvious implications of things will comeup
+      - Asking questions keep you from misunderstand of understanding
+   - **Feynman's Techniques:**
+      - write concept/problem to be understood/solved on top of piece of paper
+      - explain as if you are teaching to compelete beginner, (at least with pre-requisites)
+      - if you are easily able to teach it => you understand it
+         - explain why your solutions makes sense in case of problem to be solved?
+         - if you get stuck => you don't understand it
+      - So the Focus should be on generating illustrative examples, analogies, visualizations and convey them to compelete beginner (at least in your imaginations)
+
 ## Principle_9, Experimentation:
+- Experiment with #principles, (eg may be retrieval isn't good for me)
+- Experiment with learning resources
+   - how to learn
+- Experiment with technique
+   - what to learn next
+- Experiment with style
+   - Be aware of all the styles for doing things and experiment'em
+
+- How to Experiment
+   - copy, then create approach
+   - compare methods, side-by-side
+   - introduce new constraints
+      - create constraints (tougher tasks) so that you wonder how to proceed forward => this will sharpen your underlying skills
+   - Find Your superpower by connecting unrelated skills, eg:
+        - public speaking + engineering
+        - MMA (rather than: Boxer || taekwondo || wrestler)
+   - Explore extreame zones:
+      - push yourself to do extreame components of skill.
+        
 
 
 
