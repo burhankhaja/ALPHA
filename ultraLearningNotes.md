@@ -76,7 +76,7 @@ assert(lG == rU);
         - *build as you learn*
      - Immersive Learning
         - *surround yourself with target environment in which skill is practiced, {kid's language learning analogy}*
-     - Fligh simulator method
+     - Flight simulator method
         - *simulate target environment for situations where transfer is not directly available*
      - OverKill Approach
         - *Increase challenge so that skill required is wholly contained {public speaking to subgroups before concerts analogy}*
