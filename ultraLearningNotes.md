@@ -126,7 +126,7 @@ assert(lG == rU);
       - humans don't learn well in abstract form
       - Transfer is necessary for us to learn
       - This gives direct feedback, How?
-         - if you can't give example => you don't understand it well
+         - if you can't give example *=> you don't understand it well*
       - Don't fool yourself by having illusion of understanding
    - Ask lots of dumb questions to assess whether you understand it deeply
       - By asking seemingly obvious questions to yourself, the not-so-obvious implications of things will comeup
@@ -134,9 +134,9 @@ assert(lG == rU);
    - **`Feynman's Techniques:`**
       - write concept/problem to be understood/solved on top of piece of paper
       - explain as if you are teaching to compelete beginner, *at least with pre-requisites*
-      - if you are easily able to teach it => you understand it
+      - if you are easily able to teach it *=> you understand it*
          - explain why your solutions makes sense in case of problem to be solved?
-         - if you get stuck => you don't understand it
+         - if you get stuck *=> you don't understand it*
       - So the Focus should be on generating illustrative examples, analogies, visualizations and convey them to compelete beginner *at least in your imaginations*
 
 ## `Principle_9, EXPERIMENTATION:`
