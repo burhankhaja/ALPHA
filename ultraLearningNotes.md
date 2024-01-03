@@ -26,7 +26,7 @@
           string rt = "time on research";
           assert (10% * (elt) == rt);
          ```
-       - **Goal here, is to not latch on first possible method/resource without thinking about alternatives-their strengths and weaknesses**
+       - **`Goal here, is to not latch on first possible method/resource without thinking about alternatives-their strengths and weaknesses`**
        - Follow Diminishing Returns/Marginal Benefit Calculation Principle
          ```c
            if (contribution(Research) > benefits(Action/learning)) {
