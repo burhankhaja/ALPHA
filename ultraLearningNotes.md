@@ -41,16 +41,17 @@
      - desire to do y rather than x
      - difficulty of doing x
   - Fix:
-     - 5min Rule: Just convince yourself to do x for 5 min, 80% probability is you will endup doing more
-     - Pomodoro: 25min(x) -- 5min(rest) => avoids burnout on doing difficult x
+     - 5min Rule: *Just convince yourself to do x for 5 min, 80% probability is you will endup doing more*
+     - Pomodoro: *25min(x) -- 5min(rest) to avoids burnout on doing difficult x and maintain constant energy flow*
 - **Problem 2: Distractions**
    - source
-      - environment (phone, games, playground...)
+      - environment - *phone, games, playground...*
       - Difficulty of Task
          - **break x into x0, x1 to span attention for avoidance of boredom**
-      - Mind (bad emotional state, addicted....)
-- **Problem 3: Wrong Focus**
+      - Mind - *bad emotional state, addictions....*
+- **Problem 3: Wrong Kinda Focus**
    - Utilizing wrong kind of focus in wrong situations
+   - `I don't subscribe to this`
    - Fix:
    ```c
    // However, this rule isn't valid in all situations
