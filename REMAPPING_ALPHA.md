@@ -1,0 +1,3 @@
+- Sometimes if you get problems on remapping issues from cloned repo,
+- just check remappings file (remappings.txt, foundry.toml etc)
+- and search and replace on all occurence
